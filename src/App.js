@@ -8,6 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
           This is a demo app for the TPM Roundtable
+
+          <p>APPLAUSE!!!</p>
+
       </header>
     </div>
   );
