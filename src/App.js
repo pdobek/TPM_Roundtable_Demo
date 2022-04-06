@@ -9,7 +9,7 @@ function App() {
 
           This is a demo app for the TPM Roundtable
 
-          <p class="blink">APPLAUSE</p>
+          <p class="blink">APPLAUSE NOW</p>
 
 
       </header>
